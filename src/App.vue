@@ -1,6 +1,6 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
-import TheWelcome from "./components/TheWelcome.vue";
+import HelloWorld from './components/HelloWorld.vue'
+import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
@@ -24,7 +24,7 @@ import TheWelcome from "./components/TheWelcome.vue";
 </template>
 
 <style>
-@import "./assets/base.css";
+@import './assets/base.css';
 
 #app {
   max-width: 1280px;
