@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Boost Fiber",
+    "image": "boost-fiber.jpg",
+    "price" : 43
+  },
+  {
+    "name": "Fiji",
+    "image": "fiji.jpg",
+    "price": 54
+  },
+  {
+    "name": "Gatorade",
+    "image": "gatorade.jpg",
+    "price" : 31
+  },
+  {
+    "name": "Pop-Tarts",
+    "image": "pop-tarts.jpg",
+    "price" : 12
+  },
+  {
+    "name": "Pringles",
+    "image": "pringles.jpg",
+    "price" : 23
+  },
+  {
+    "name": "Quaker",
+    "image": "quaker.jpg",
+    "price" : 17
+  },
+  {
+    "name": "Vita Coco",
+    "image": "vita-coco.jpg",
+    "price" : 46
+  },
+  {
+    "name": "Welchs",
+    "image": "welchs.jpg",
+    "price" : 46
+  }
+]
