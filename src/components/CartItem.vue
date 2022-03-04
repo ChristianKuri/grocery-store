@@ -8,7 +8,7 @@ defineEmits(['updateCount', 'clear'])
 </script>
 
 <template>
-  <li>
+  <li class="flex justify-between p-2">
     <span>{{ product.name }}</span>
     <span class="whitespace-nowrap">
       <AppCountInput
@@ -24,3 +24,9 @@ defineEmits(['updateCount', 'clear'])
     </span>
   </li>
 </template>
+
+<style lang="pcss" scoped>
+li:nth-of-type(even) {
+  @apply bg-gray-300;
+}
+</style>
