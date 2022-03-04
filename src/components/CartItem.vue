@@ -18,9 +18,9 @@ defineEmits(['updateCount', 'clear'])
       <span class="inline-block w-12 text-right"
         >${{ count * product.price }}</span
       >
-      <span class="ml-4" @click="$emit('clear')">
+      <button type="button" class="ml-4" @click="$emit('clear')">
         <fa icon="trash-alt" />
-      </span>
+      </button>
     </span>
   </li>
 </template>
